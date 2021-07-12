@@ -1,1 +1,1 @@
-Napisać aplikację WEB pozwalającą na przeglądanie i wyszukiwanie książek w bazie danych książek.
+Aplikację WEB pozwalająca na przeglądanie i wyszukiwanie książek w bazie danych książek.
