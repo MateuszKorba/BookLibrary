@@ -1,1 +1,1 @@
-Aplikację WEB pozwalająca na przeglądanie i wyszukiwanie książek w bazie danych książek.
+Aplikacja WEB pozwalająca na przeglądanie i wyszukiwanie książek w bazie danych książek.
